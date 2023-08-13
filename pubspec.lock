@@ -49,14 +49,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.5"
-  currency_converter:
-    dependency: "direct main"
-    description:
-      name: currency_converter
-      sha256: "47cafe376164c2ffd3a386e04e6fa1512c91d06e2a0e33c70ba91bf0b770ad3d"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.4"
   fake_async:
     dependency: transitive
     description:
@@ -100,13 +92,13 @@ packages:
     source: hosted
     version: "4.0.2"
   intl:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: intl
-      sha256: "3bc132a9dbce73a7e4a21a17d06e1878839ffbf975568bc875c60537824b0c4d"
+      sha256: "910f85bce16fb5c6f614e117efa303e85a1731bb0081edf3604a2ae6e9a3cc91"
       url: "https://pub.dev"
     source: hosted
-    version: "0.18.1"
+    version: "0.17.0"
   js:
     dependency: transitive
     description:
